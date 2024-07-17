@@ -1,6 +1,6 @@
 name: modifiable_progress_indicators
 description: "A Flutter package that let's you create beautiful modifiable progress indicators."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/TeeWrath/modifiable-progress-indicators
 
 environment:
