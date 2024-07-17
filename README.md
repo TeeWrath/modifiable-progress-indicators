@@ -56,3 +56,9 @@ ModifiableProgressIndicators(
 ## Future Goals
 
 - [ ] Add more kinds of progress indicators
+
+## Support :heart:
+
+Star project on [github.com](https://github.com/TeeWrath/modifiable-progress-indicators).
+
+Like on [pub.dev](https://pub.dev/packages/modifiable_progress_indicators).
