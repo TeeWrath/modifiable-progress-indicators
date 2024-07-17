@@ -26,6 +26,9 @@ dependencies:
 import 'package:modifiable_progress_indicators/modifiable_progress_indicators.dart';
 ```
 
+## Screenshots
+<img src="assets/img.jpg" alt="">
+
 ## Details
 
 There are a number of properties that you can modify:
@@ -42,11 +45,11 @@ There are a number of properties that you can modify:
 
 ```dart
 ModifiableProgressIndicators(
-    height : 10,
-    width : 10,
-    circleColor : Colors.white,
+    height : 200,
+    width : 200,
+    circleColor : Colors.red,
     strokeWidth : 5,
-    image : 'assets/assetLogoMark.png',
+    image : 'assets/img.png',
 ),
 ```
 
