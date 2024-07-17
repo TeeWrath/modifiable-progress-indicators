@@ -1,5 +1,14 @@
 # Modifiable Progress Indicator
 
+[![pub package](https://img.shields.io/pub/v/modifiable_progress_indicators.svg)](https://pub.dev/packages/modifiable_progress_indicators)
+
+[![likes](https://img.shields.io/pub/likes/modifiable_progress_indicators)](https://pub.dev/packages/modifiable_progress_indicators/score)
+[![popularity](https://img.shields.io/pub/popularity/modifiable_progress_indicators)](https://pub.dev/packages/modifiable_progress_indicators/score)
+[![pub points](https://img.shields.io/pub/points/modifiable_progress_indicators)](https://pub.dev/packages/modifiable_progress_indicators/score)
+
+
+## Introduction
+
 Simple Modifiable Progress Indicators that let you add beautiful progress indicators to your flutter app.
 
 ## Installation
